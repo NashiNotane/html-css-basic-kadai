@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../kadai"
+		},
+		{
+			"path": "../kadai_005"
+		},
+		{
+			"path": "../kadai_008"
+		},
+		{
+			"path": "../kadai_014"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kadai_008"
+	}
+}
