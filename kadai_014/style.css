@@ -1,6 +1,23 @@
 body {
   font-family: "Arial", "Meiryo", sans-serif ;
+  font-size: 20px;
+  text-align: center;
 }
 .google-fonts {
   font-family: "Josefin Sans" sans-serif ;
+}
+.text-red {
+  color:rgb(255, 192, 203);
+}
+.text-blue{
+  color:skyblue ;
+}
+h1 {
+  font-size: 2em;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+div p {
+  font-weight: bold;
 }
