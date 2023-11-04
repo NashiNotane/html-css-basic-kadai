@@ -13,3 +13,23 @@ header {
 h1 {
   color: rgb(255,255,255);
 }
+main {
+  margin: 10px 10px 10px 10px ;
+}
+#parent {
+  display: flex;
+  justify-content: space-around ;
+}
+.contents {
+  border:solid 3px rgb(238,204,204) ;
+  flex-basis: 25% ;
+  padding: 10px 15px 10px 15px ;
+  margin: 20px 0 20px 0 ;
+  align-self: center ;
+}
+h2::before{
+  font-size: 25px ;
+  border-bottom: dotted 3px rgb(236,122,122);
+  content:"●" ;
+  color: rgb(239,111,139);
+}
